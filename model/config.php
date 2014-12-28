@@ -2,10 +2,10 @@
 
 <?php
 //   save the connection variables here
-$dbhost = 'localhost:3306';
+$dbhost = 'host and port';
 $dbuser = 'root';
-$dbpass = 'lu614000';
-$dbname = 'php_practice';
+$dbpass = 'password';
+$dbname = 'databasename';
 
 
 ?>
